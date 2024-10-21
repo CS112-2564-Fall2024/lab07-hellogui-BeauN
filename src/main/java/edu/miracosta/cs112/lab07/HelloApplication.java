@@ -28,7 +28,7 @@ public class HelloApplication extends Application  { //inheriting core functiona
         Scene scene = new Scene(layout, 300, 300);
         primaryStage.setScene(scene);
         primaryStage.show();
-        //NEWCOMIITTesferwfgewfewwfwefwef
+        //NEWCOMIITTesferwfgewfewwfwefsdfsdfswef
 
     }
     // TODO: follow steps 10-21 in README.md to add objects to your layout (inside start)
